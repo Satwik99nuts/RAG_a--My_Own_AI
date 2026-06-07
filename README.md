@@ -341,6 +341,8 @@ Recompile and restart.
 
 ---
 
-## License
+## Author
 
-MIT — use this however you want.
+**Satwik_Shivam**
+
+© 2026 Satwik_Shivam. All rights reserved.
